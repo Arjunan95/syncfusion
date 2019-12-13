@@ -277,6 +277,7 @@ class App extends React.Component {
             option="Month"
             isSelected={true}
             IsBlock={true}
+
             //showWeekNumber={true}
             //showWeekend={false}
           ></ViewDirective>
